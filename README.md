@@ -3,6 +3,7 @@
 #### To install dependencies:
 First install all dependencies.
 
+####Run tests
 `Run all the commands in bash file` or simply
 ```ruby
 ./bash.sh
@@ -14,6 +15,7 @@ To execute tests, run the following command
 npm run test api-tests/
 ```
 
-To saw the output of tests
+####Results
+Test results are created using Mochawesome
 
-`open output/my_test_report.html`
+
